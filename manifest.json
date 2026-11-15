@@ -8,6 +8,6 @@
   "adult": true,
   "hosts": ["lzlukvca.cc", "lzlukvca.cc", "lzlukvca.cc"],
   "capabilities": ["search"],
-  "baseUrl": "https://lzlukvca.cc/home",
+  "baseUrl": "https://lzlukvca.cc",
   "allowEmptyCatalog": true
 }
