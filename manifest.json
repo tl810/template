@@ -1,12 +1,13 @@
 {
-  "id": "template",
-  "name": "模板",
-  "version": "1.0.0",
-  "description": "假数据示例模块，不访问网络",
+  "id": "beabox",
+  "name": "黄豆1",
+  "version": "1.0.1",
+  "description": "分类视频 · 在线搜索",
   "runtime": "js",
   "api": 1,
-  "adult": false,
-  "hosts": [],
+  "adult": true,
+  "hosts": ["lzlukvca.cc", "lzlukvca.cc", "lzlukvca.cc"],
   "capabilities": ["search"],
+  "baseUrl": "https://lzlukvca.cc/home",
   "allowEmptyCatalog": true
 }
