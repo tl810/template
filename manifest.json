@@ -5,8 +5,9 @@
   "description": "假数据示例模块，不访问网络",
   "runtime": "js",
   "api": 1,
-  "adult": true,
-  "hosts": [https://lzlukvca.cc],
+  "adult": true, 
+   "hosts": ["lzlukvca.cc"],
   "capabilities": ["search"],
+  "baseUrl": "https://lzlukvca.cc",
   "allowEmptyCatalog": true
 }
